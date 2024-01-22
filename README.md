@@ -7,7 +7,7 @@ This script retrieves search volume data from the Google Ads Keyword Planner, us
 The script calculates the date and the name of last month, in order to use it in the data retrieval. This also allows for further automation. The data retrieval itself is done by using the Keyword Planner from the Google Ads API. An important aspect to remember here, is the definition of the exact geographical regions that you want to include, defined as number codes in string format. The retrieved data is processed by a function that turns the API response into a workable dataframe, which is then exported to BigQuery.
 
 ## Technologies
-The project is built using  
+The project is built using:    
 -Google Ads API for retrieving search numbers  
 -Google BigQuery API/pandas_gbq for easy data export and storage of dataframes  
 -Pandas for data manipulation
