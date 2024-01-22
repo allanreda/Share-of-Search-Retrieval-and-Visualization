@@ -14,5 +14,5 @@ The project is built using
 
 ## Goal
 The goal is to make it easy to keep track of market shares of certain industries. This is useful for understanding the market, figuring out SEO, and measuring how well you are doing against the competition.
-Also, the final technical goal is to be able to use the data in the BigQuery table to visualize the data. You can view my example of the Danish banking industry below.  
+Also, the final technical goal is to be able to use the data in the BigQuery table to visualize the data. You can view my example of the Danish banking industry below, created in Looker Studio with BigQuery as the data source.  
 ![image](https://github.com/allanreda/Share_of_Search_Retrieval_and_Visualization/assets/89948110/c89a6adb-af69-42b2-8794-e621b79d9c22)
